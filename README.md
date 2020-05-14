@@ -1,1 +1,1 @@
-# OOP_Lab_06
+# OOP Lab #06 C ++ template classes
