@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Vistal Studio Folders and Files
+.vs
+Debug
